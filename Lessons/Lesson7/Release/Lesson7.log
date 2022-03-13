@@ -1,0 +1,7 @@
+﻿  7Lessontask1_19.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\user\CPP_repositories\CPPYoutubelearn\Lessons\Lesson7\7Lessontask1_19.cpp(16): warning C4715: summu: значение возвращается не при всех путях выполнения
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Lesson7.vcxproj -> C:\Users\user\CPP_repositories\CPPYoutubelearn\Lessons\Release\Lesson7.exe
